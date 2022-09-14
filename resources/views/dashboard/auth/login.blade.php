@@ -10,7 +10,7 @@
                     <div class="card-header border-0">
                         <div class="card-title text-center">
                             <div class="p-1">
-                                <img src="{{asset('assets/front/images/logo.png')}}" alt="LOGO"/>
+                                <img src="{{asset('public/assets/front/images/logo.png')}}" alt="LOGO"/>
 
                             </div>
                         </div>
